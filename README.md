@@ -105,4 +105,4 @@ One more thing: if your remote Antelope apps are [git-ssh enabled](https://docs.
 
 [Licensed under the MIT license.](MIT_LICENSE)
 
-<img width="10%" alt="tributaries-logo" src="https://github.com/AGI-init/Assets/assets/92597756/7e7bb054-f265-4f53-a4f2-d3af52f1d890">
+<img width="10%" alt="tributaries-logo" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142250284/293290762-0adba97f-d736-4f6a-be45-1c97c0ee1b19.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20231228%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231228T234804Z&X-Amz-Expires=300&X-Amz-Signature=2caec18f4bba001a088aa643cae29e50d31d4869017f25a5bb43de385dc1245a&X-Amz-SignedHeaders=host&actor_id=142250284&key_id=0&repo_id=725474188">
